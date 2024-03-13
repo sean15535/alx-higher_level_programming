@@ -1,3 +1,1 @@
-0. Run Python File
-
-Bash script that runs a Python script file saved in the environment variable $PYFILE.
+0x00. Python - Hello, World. First project in python
